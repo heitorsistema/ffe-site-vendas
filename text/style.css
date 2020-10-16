@@ -1,0 +1,48 @@
+body{
+  background-color: indianred;
+  
+}
+nav {
+  text-align: center;
+}
+.form {
+  background-color: lightgrey;
+  width: 500px;
+  border: 25px solid rgb(55, 88, 138);
+  padding: 25px;
+  margin: 50px;
+  height: 420px;
+  font-size: 100%;
+  position: absolute;
+  left: 400px;
+  top: 150px;
+}
+
+.imag1 {
+  width: 200px;
+  height: 200px;
+  left: 300px;
+  bottom: 150px;
+  font-size: 20px;
+  align-items: center;
+}
+.divimag {
+    width: 400px;
+    height: 300px;
+    left: 900px;
+    bottom: 430px;
+    font-size: 20px;
+  }
+p{
+    text-align: center;
+    color: aliceblue;
+}
+
+.slides {
+    max-width: 1450px;
+    max-height: 1500px;
+  }
+  .carousel-inner img{
+  width: 1700px;
+  height: 700px;
+}
